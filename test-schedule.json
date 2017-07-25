@@ -1,0 +1,18 @@
+{
+  "schedule": {
+    "Value":  {
+      "items": [
+        {
+          "content": "http://www.github.com",
+          "end": "Tue Jul 25 2017 21:30:00 GMT+1000",
+          "start": "Tue Jul 25 2017 21:00:00 GMT+1000",
+        },
+        {
+          "content": "http://www.google.com",
+          "end": "Tue Jul 25 2017 21:35:00 GMT+1000",
+          "start": "Tue Jul 25 2017 21:30:00 GMT+1000",
+        }
+      ]
+    }
+  }
+}
